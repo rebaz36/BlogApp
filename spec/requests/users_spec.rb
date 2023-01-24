@@ -2,7 +2,8 @@ require 'rails_helper'
 
 RSpec.describe "Users", type: :request do
   before(:each) do
-    @user = User.create(name: 'Mateo Lane', photo: 'https://unsplash.com/photos/mateopic', bio: 'Comedian, Italian, stylish, and part time youtuber', posts_counter: 5)
+    @user = User.create(name: 'Mateo Lane', photo: 'https://unsplash.com/photos/mateopic',
+                        bio: 'Comedian, Italian, stylish, and part time youtuber', posts_counter: 5)
   end
 
   describe "request list of all users" do
