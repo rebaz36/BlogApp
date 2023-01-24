@@ -37,8 +37,11 @@
   -o-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
-  box-shadow: rgba(46, 240, 59, 0.4) 0 5px, rgba(46, 240, 46, 0.3) 0 10px,
-    rgba(46, 240, 65, 0.2) 0 15px, rgba(46, 240, 53, 0.1) 0 20px,
+  box-shadow:
+    rgba(46, 240, 59, 0.4) 0 5px,
+    rgba(46, 240, 46, 0.3) 0 10px,
+    rgba(46, 240, 65, 0.2) 0 15px,
+    rgba(46, 240, 53, 0.1) 0 20px,
     rgba(46, 240, 56, 0.05) 0 25px;
 }
 
@@ -192,8 +195,11 @@
   -o-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
-  box-shadow: rgba(46, 240, 59, 0.4) 0 5px, rgba(46, 240, 46, 0.3) 0 10px,
-    rgba(46, 240, 65, 0.2) 0 15px, rgba(46, 240, 53, 0.1) 0 20px,
+  box-shadow:
+    rgba(46, 240, 59, 0.4) 0 5px,
+    rgba(46, 240, 46, 0.3) 0 10px,
+    rgba(46, 240, 65, 0.2) 0 15px,
+    rgba(46, 240, 53, 0.1) 0 20px,
     rgba(46, 240, 56, 0.05) 0 25px;
 }
 
