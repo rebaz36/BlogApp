@@ -4,10 +4,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse Education project by Rebaz Farid</b></h3>
+  <h3><b>Project by Rebaz Farid</b></h3>
 
 </div>
 
